@@ -10,7 +10,9 @@ knitr::opts_chunk$set(error = TRUE)
 ```
   
 **Abstract**  
-Markowitz detailed, in his work on portfolio theory, that optimal combinations of assets exist.  That is, given a level of risk, there is a combination of investments that will have the greatest return.  These possible combinations form a "frontier", or "Markowitz Bullet".  Ideally, ones portfolio should lie on this frontier (that is, you're getting the highest return for your desired level of risk).  An investor can then leverage some assets, and short others, to exceed even the frontier.   
+Markowitz detailed, in his work on portfolio theory, that optimal combinations of assets exist.  That is, given a level of risk, there is a combination of investments that will have the greatest return.  These possible combinations form a "frontier", or "Markowitz Bullet".  Ideally, ones portfolio should lie on this frontier (that is, you're getting the highest return for your desired level of risk).  An investor can then leverage some assets, and short others, to exceed even the frontier. 
+
+This concept is explained far better by a [nobel laureat](https://www.youtube.com/watch?v=_B_24GUWdSM&list=PL8FB14A2200B87185&index=4#t=16m22s)
 
 Currently, I have a random assortment of mutual funds in my IRA and 401k.  Likewise, I have a few securities, purchased on a whim or through my employers stock purchase program.  I am curious as to how "inefficient" my current asset distribution is.
 
